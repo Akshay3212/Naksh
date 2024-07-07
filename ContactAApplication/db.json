@@ -1,0 +1,63 @@
+{
+  "Contact": [
+    {
+      "id": "01",
+      "Name": "Akshay",
+      "Company": "Greaves",
+      "Email": "akshbabar3212@gmail.com",
+      "Title": "production",
+      "Mobile": "7045317002",
+      "Photo": "https://tse1.mm.bing.net/th?id=OIP.hCgHnDI6fpLLy6wsOZJIOAHaHa&pid=Api&P=0&h=180",
+      "GroupId": "1"
+    },
+    {
+      "id": "02",
+      "Name": "Aksh",
+      "Company": "Vayo",
+      "Email": "akshbabar3212@gmail.com",
+      "Title": "Design",
+      "Mobile": "7228768472",
+      "Photo": "https://tse1.mm.bing.net/th?id=OIP.s6RuZ2Cv4DtF-HuEFALqKwHaHa&pid=Api&P=0&h=180",
+      "GroupId": "3"
+    },
+    {
+      "id": "03",
+      "Name": "Babar",
+      "Company": "BMW",
+      "Email": "akshbabar3212@gmail.com",
+      "Title": "QA",
+      "Mobile": "7045317002",
+      "Photo": "https://tse3.mm.bing.net/th?id=OIP.V6vVZL3I_2Bw417EBnQhqwHaHa&pid=Api&P=0&h=180",
+      "GroupId": "2"
+    },
+    {
+      "id": "04",
+      "Name": "Ram",
+      "Company": "JCB",
+      "Email": "akshbabar2014@gmail.com",
+      "Title": "production",
+      "Mobile": "7045317002",
+      "Photo": "https://tse1.mm.bing.net/th?id=OIP.x2ZuVOX1eBPF5CTM6TWG1QHaHP&pid=Api&P=0&h=180",
+      "GroupId": "4"
+    }
+  ],
+  
+  "Groups": [
+    {
+      "id": "1",
+      "Name": "Friend"
+    },
+    {
+      "id": "2",
+      "Name": "Relative"
+    },
+    {
+      "id": "3",
+      "Name": "Family"
+    },
+    {
+      "id": "4",
+      "Name": "Classmate"
+    }
+  ]
+}
