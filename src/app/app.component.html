@@ -1,0 +1,10 @@
+<h1>Hello Akshay</h1>
+
+<div>
+  <input type="text" #data>
+  <button (click)="Onsubmit(data.value)">Submit</button>
+</div>
+
+<app-child [data]="arr">
+  <p #data>Hello Akshay How are you;{{arr}}</p>
+</app-child>
